@@ -1,0 +1,5 @@
+1.Given two numbers A and B. Print "Yes" if A is greater than or equal to B. Otherwise print "No".
+2.Given two numbers A and B. Print "Multiples" if A is multiple of B or vice versa. Otherwise print "No Multiples".
+Given a letter X. If the letter is lowercase print the letter after converting it from lowercase letter to uppercase letter. Otherwise print the letter after converting it from uppercase letter to lowercase letter.
+Given a number X. Print "EVEN" if the first digit of X is even number. Otherwise print "ODD".
+Given a letter X. Determine whether X is Digit or Alphabet and if it is Alphabet determine if it is Capital Case or Small Case.
