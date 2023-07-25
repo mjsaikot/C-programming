@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-/*Given a number N and an array A of N numbers. Print all array positions that store a number less than or equal to 10 and the number stored in that position.*/
+/*Given a number N and an array A of N numbers. 
+Print all array positions that store a number less than or 
+equal to 10 and the number stored in that position.*/
 int main() {
   int n;
   scanf("%d", & n);

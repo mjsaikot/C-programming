@@ -1,5 +1,6 @@
 #include <stdio.h>
-/*Given a number N and an array A of N numbers. Print the array in a reversed order.*/
+/*Given a number N and an array A of N numbers. 
+Print the array in a reversed order.*/
 int main() {
   int n;
   scanf("%d", & n);
